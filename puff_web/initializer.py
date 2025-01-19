@@ -89,7 +89,7 @@ def read_root(request: Request):
         "requirements.txt": "fastapi\npeewee\njinja2\nuvicorn\nmysql-connector-python",
         "manage.py": 
 """if __name__ == '__main__':
-    from puff import pcli
+    from puff_web import pcli
     pcli.cli()
 """,
     }
