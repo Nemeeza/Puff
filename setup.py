@@ -32,7 +32,7 @@ setup(
     python_requires=">=3.10",  # Минимальная версия Python
     entry_points={  # Точки входа для CLI
         "console_scripts": [
-            "puff=puff.cli:cli",
+            "puff=puff_web.cli:cli",
         ],
     },
 )
