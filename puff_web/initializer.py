@@ -6,7 +6,6 @@ current_file_path = os.path.abspath(__file__)
 # Формируем полный путь к jquery.js
 jquery_path = os.path.join(os.path.dirname(current_file_path), 'jquery.js')
 
-
 def make_structure(name = 'Puff', DB_DATABASE='db',  DB_USER = 'root', DB_PASSWORD = 'secret', DB_HOST = 'localhost', DB_PORT=3306):
 # Основная структура проекта
     return {
