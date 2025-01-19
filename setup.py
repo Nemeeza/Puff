@@ -5,8 +5,8 @@ with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
 setup(
-    name="puff",  # Имя пакета
-    version="1.0.0",  # Версия пакета
+    name="puff-web",  # Имя пакета
+    version="1.0.2",  # Версия пакета
     author="Nemeeza",  # Ваше имя или имя команды
     author_email="demo@qnro.ru",  # Ваш email
     description="Инструмент для быстрого развёртывания веб-приложений на стеке PeeWee + MySQL + FastAPI + Jinja2 + JQuery",  # Краткое описание

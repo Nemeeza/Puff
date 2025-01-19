@@ -7,7 +7,7 @@
 Вы можете установить CLI-утилиту **Puff** из PyPI с помощью `pip`:
 
 ```bash
-pip install puff
+pip install puff-web
 ```
 
 ## Использование
