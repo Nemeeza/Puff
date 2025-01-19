@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 setup(
     name="puff-web",  # Имя пакета
-    version="1.0.5",  # Версия пакета
+    version="1.0.7",  # Версия пакета
     author="Nemeeza",  # Ваше имя или имя команды
     author_email="demo@qnro.ru",  # Ваш email
     description="Инструмент для быстрого развёртывания веб-приложений на стеке PeeWee + MySQL + FastAPI + Jinja2 + JQuery",  # Краткое описание
